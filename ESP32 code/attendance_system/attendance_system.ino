@@ -11,11 +11,11 @@
 #include <map>
 
 // Wi-Fi credentials
-const char* ssid = "chittethe";
-const char* password = "vishnu@123";
+const char* ssid = "WIFI_NAME";
+const char* password = "WIFI_PASSWORD";
 
 // Google Apps Script URL
-const char* googleScriptURL = "https://script.google.com/macros/s/AKfycbwi0PnBHfj1_3uIKoD_yxIAYBbTPytMWGlVIew7xRFwURSRae2BVTDjjvCftNL7M3fhqA/exec";
+const char* googleScriptURL = "SCRIPT_URL";
 
 // RFID settings
 #define SS_PIN 22    // RFID SS pin (SDA)
