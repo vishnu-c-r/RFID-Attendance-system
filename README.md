@@ -324,4 +324,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 Contact
 -------
 
-For questions or support, please contact your\_email@example.com.
+For questions or support, please contact vishnucrajeev9@gmail.com
